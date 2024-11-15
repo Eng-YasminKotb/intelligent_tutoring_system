@@ -1,0 +1,14 @@
+intelligent_tutoring_system/
+│
+├── models/
+│   ├── __init__.py
+│   ├── learner.py
+│   ├── learning_object.py
+│   ├── knowledge_graph.py
+│
+├── recommender/
+│   ├── __init__.py
+│   ├── recommender.py
+│
+├── main.py
+├── requirements.txt
